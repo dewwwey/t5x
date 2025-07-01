@@ -80,7 +80,7 @@ setuptools.setup(
         'gpu': [
             'ipdb==0.13.9',
             'fasttext==0.9.3',
-            'pysimdjson==5.0.2',
+            'pysimdjson>=6.0.0',
             'pytablewriter==0.64.2',
             'gdown==4.5.3',
             'best-download==0.0.9',
